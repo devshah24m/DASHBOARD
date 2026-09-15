@@ -1,0 +1,8 @@
+streamlit
+streamlit-autorefresh
+pandas
+openpyxl
+pyotp
+smartapi-python
+websocket-client
+logzero
